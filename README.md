@@ -199,7 +199,7 @@ They power a wide range of applications across industries and are essential for 
 
 ---
 
-💡 Simple Understanding
+**💡 Simple Understanding**
 
 🆓 Free Models (Mostly Open Source / Open Weight)
 
@@ -227,7 +227,7 @@ Modified & fine-tuned
 
 ---
 
-💰 Paid Models (Best Performance)
+**💰 Paid Models (Best Performance)**
 
 GPT (OpenAI)
 
@@ -247,7 +247,7 @@ Offer highest accuracy + reliability
 
 ---
 
-⚖️ Hybrid (Free + Paid)
+**⚖️ Hybrid (Free + Paid)**
 
 Gemini
 
@@ -257,11 +257,11 @@ Mistral API
 
 Some OpenAI tiers
 
-👉 Free tier:
+**👉 Free tier:**
 
 Limited requests (RPM, daily caps)
 
-👉 Paid tier:
+**👉 Paid tier:**
 
 Scales for production apps
 
@@ -275,7 +275,10 @@ Scales for production apps
 
 ---
 
-🚀 What Should You Use?
+**🚀 What Should You Use?**
+
 Beginner / student 👉 LLaMA / Mistral (free)
+
 Project / startup 👉 DeepSeek / Gemini (cheap + scalable)
+
 Top performance 👉 GPT / Claude (paid)
