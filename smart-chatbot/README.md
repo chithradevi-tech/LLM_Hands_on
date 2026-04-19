@@ -260,10 +260,11 @@ gpt-4.1-mini
 
 ---
 
-<img width="1898" height="975" alt="Screenshot 2026-04-19 120400" src="https://github.com/user-attachments/assets/736a5cd0-ab02-4a29-ba4c-96b170203402" />
+<img width="600" height="500" alt="Screenshot 2026-04-19 120400" src="https://github.com/user-attachments/assets/736a5cd0-ab02-4a29-ba4c-96b170203402" />
 
-<img width="1907" height="946" alt="Screenshot 2026-04-19 120415" src="https://github.com/user-attachments/assets/3bdd3eda-3a2f-4a4f-ac2d-9c73f5d17739" />
+<img width="600" height="500" alt="Screenshot 2026-04-19 120415" src="https://github.com/user-attachments/assets/3bdd3eda-3a2f-4a4f-ac2d-9c73f5d17739" />
 
+<img width="600" height="500" alt="Screenshot 2026-04-19 120436" src="https://github.com/user-attachments/assets/31484261-5599-4f4c-8b38-bd6a554db3a6" />
 
 
 ---
