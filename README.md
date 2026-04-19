@@ -200,7 +200,9 @@ They power a wide range of applications across industries and are essential for 
 ---
 
 💡 Simple Understanding
+
 🆓 Free Models (Mostly Open Source / Open Weight)
+
 LLaMA
 Mistral / Mixtral
 DeepSeek
@@ -218,6 +220,7 @@ Modified & fine-tuned
 ---
 
 💰 Paid Models (Best Performance)
+
 GPT (OpenAI)
 Claude (Anthropic)
 Gemini (Google)
@@ -232,6 +235,7 @@ Offer highest accuracy + reliability
 ---
 
 ⚖️ Hybrid (Free + Paid)
+
 Gemini
 Cohere
 Mistral API
@@ -240,7 +244,9 @@ Some OpenAI tiers
 👉 Free tier:
 
 Limited requests (RPM, daily caps)
+
 👉 Paid tier:
+
 Scales for production apps
 
 ---
