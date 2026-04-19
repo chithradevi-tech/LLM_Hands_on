@@ -240,6 +240,19 @@ useState is a hook used to manage state in functional components...
 
 ---
 
+<img width="1905" height="917" alt="Screenshot 2026-04-19 154033" src="https://github.com/user-attachments/assets/1840fd3b-7bbe-49c4-92e1-eed113b27aae" />
+
+<img width="1918" height="998" alt="Screenshot 2026-04-19 154101" src="https://github.com/user-attachments/assets/d0550bcc-264a-4e9f-a7dc-2e3f7492b36d" />
+
+<img width="1906" height="983" alt="Screenshot 2026-04-19 154118" src="https://github.com/user-attachments/assets/fd5bdc07-7a27-44ff-ac3d-741135d35f46" />
+
+<img width="1837" height="952" alt="Screenshot 2026-04-19 154321" src="https://github.com/user-attachments/assets/dbb4af8e-f7e1-446a-a068-59f8f7d64d81" />
+
+<img width="1635" height="717" alt="Screenshot 2026-04-19 154414" src="https://github.com/user-attachments/assets/5d4fe703-6419-43b5-b9a2-8bc8b05e0c68" />
+
+
+
+
 
 
 
