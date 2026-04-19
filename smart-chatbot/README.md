@@ -260,9 +260,11 @@ gpt-4.1-mini
 
 ---
 
-## 🧑‍💻 Author
+<img width="1898" height="975" alt="Screenshot 2026-04-19 120400" src="https://github.com/user-attachments/assets/736a5cd0-ab02-4a29-ba4c-96b170203402" />
 
-Chithra Devi
+<img width="1907" height="946" alt="Screenshot 2026-04-19 120415" src="https://github.com/user-attachments/assets/3bdd3eda-3a2f-4a4f-ac2d-9c73f5d17739" />
+
+
 
 ---
 
