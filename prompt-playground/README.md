@@ -237,11 +237,13 @@ This project demonstrates:
 
 ---
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c7536bf7-86fd-4b1f-b0d9-20cb40ed9180" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c7536bf7-86fd-4b1f-b0d9-20cb40ed9180" />
 
-<img width="500" height="500" alt="Screenshot 2026-04-19 145128" src="https://github.com/user-attachments/assets/6e5d867a-fca3-4d33-a72e-0c3faaed5ade" />
 
-<img width="500" height="500" alt="Screenshot 2026-04-19 145203" src="https://github.com/user-attachments/assets/99a09915-2eae-47ca-a4da-155c9ac6bc53" />
+<img width="800" height="500" alt="Screenshot 2026-04-19 145128" src="https://github.com/user-attachments/assets/6e5d867a-fca3-4d33-a72e-0c3faaed5ade" />
+
+
+<img width="800" height="500" alt="Screenshot 2026-04-19 145203" src="https://github.com/user-attachments/assets/99a09915-2eae-47ca-a4da-155c9ac6bc53" />
 
 
 
