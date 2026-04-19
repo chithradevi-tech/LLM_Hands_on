@@ -204,17 +204,25 @@ They power a wide range of applications across industries and are essential for 
 🆓 Free Models (Mostly Open Source / Open Weight)
 
 LLaMA
+
 Mistral / Mixtral
+
 DeepSeek
+
 Qwen
+
 Gemma
+
 GPT-OSS
 
 👉 These can be:
 
 Run locally (need GPU)
+
 Used via free APIs (limited)
+
 Modified & fine-tuned
+
 👉 Open models are becoming very competitive and much cheaper (10–20x lower cost)
 
 ---
@@ -222,14 +230,19 @@ Modified & fine-tuned
 💰 Paid Models (Best Performance)
 
 GPT (OpenAI)
+
 Claude (Anthropic)
+
 Gemini (Google)
 
 👉 These:
 
 Are hosted APIs
+
 Charge per token (usage-based)
+
 Offer highest accuracy + reliability
+
 👉 Still dominate in enterprise use case
 
 ---
@@ -237,8 +250,11 @@ Offer highest accuracy + reliability
 ⚖️ Hybrid (Free + Paid)
 
 Gemini
+
 Cohere
+
 Mistral API
+
 Some OpenAI tiers
 
 👉 Free tier:
