@@ -178,3 +178,82 @@ LLMs are a foundational technology in modern AI systems, enabling machines to un
 
 They power a wide range of applications across industries and are essential for building intelligent, interactive systems.
 
+---
+
+🧠 Popular LLM Models (Free vs Paid)
+
+| Model / Family             | Company    | Type              | Cost                            | Notes / Use Case                                      |
+| -------------------------- | ---------- | ----------------- | ------------------------------- | ----------------------------------------------------- |
+| **GPT-4 / GPT-4o / GPT-5** | OpenAI     | Proprietary       | 💰 Paid (API) + limited free UI | Best overall performance, multimodal, coding          |
+| **ChatGPT (free tier)**    | OpenAI     | Proprietary       | 🆓 Free (limited)               | Uses smaller/optimized models                         |
+| **Claude (Claude 3 / 4)**  | Anthropic  | Proprietary       | 💰 Paid + limited free          | Strong reasoning, long context                        |
+| **Gemini (1.5 / 2.5)**     | Google     | Proprietary       | 🆓 + 💰 Hybrid                  | Free tier + paid API, good for apps                   |
+| **LLaMA (2 / 3 / 4)**      | Meta       | Open-weight       | 🆓 Free (self-host)             | Very popular open-source alternative ([GMI Cloud][1]) |
+| **Mistral / Mixtral**      | Mistral AI | Open-weight + API | 🆓 + 💰                         | Efficient and cheaper than GPT                        |
+| **DeepSeek (R1, V3)**      | DeepSeek   | Open + API        | 🆓 + 💰                         | Strong reasoning, low cost ([AfricanAI][2])           |
+| **Qwen (Alibaba)**         | Alibaba    | Open + API        | 🆓 + 💰                         | Good multilingual support                             |
+| **Gemma**                  | Google     | Open-weight       | 🆓 Free                         | Lightweight models                                    |
+| **GPT-OSS**                | OpenAI     | Open-weight       | 🆓 Free                         | Can run locally, customizable ([Gradually AI][3])     |
+| **Cohere Command**         | Cohere     | Proprietary       | 🆓 + 💰                         | Free tier with limits                                 |
+| **GLM (Zhipu AI)**         | Zhipu      | Proprietary/Open  | 🆓 + 💰                         | Popular in China ecosystem                            |
+
+---
+
+💡 Simple Understanding
+🆓 Free Models (Mostly Open Source / Open Weight)
+LLaMA
+Mistral / Mixtral
+DeepSeek
+Qwen
+Gemma
+GPT-OSS
+
+👉 These can be:
+
+Run locally (need GPU)
+Used via free APIs (limited)
+Modified & fine-tuned
+👉 Open models are becoming very competitive and much cheaper (10–20x lower cost)
+
+---
+
+💰 Paid Models (Best Performance)
+GPT (OpenAI)
+Claude (Anthropic)
+Gemini (Google)
+
+👉 These:
+
+Are hosted APIs
+Charge per token (usage-based)
+Offer highest accuracy + reliability
+👉 Still dominate in enterprise use case
+
+---
+
+⚖️ Hybrid (Free + Paid)
+Gemini
+Cohere
+Mistral API
+Some OpenAI tiers
+
+👉 Free tier:
+
+Limited requests (RPM, daily caps)
+👉 Paid tier:
+Scales for production apps
+
+---
+
+| Category               | Examples                 | Cost    | Best For                    |
+| ---------------------- | ------------------------ | ------- | --------------------------- |
+| **Open-source / free** | LLaMA, DeepSeek, Mistral | 🆓      | Learning, startups, privacy |
+| **Hybrid**             | Gemini, Cohere           | 🆓 + 💰 | Small apps → scaling        |
+| **Premium / paid**     | GPT, Claude              | 💰      | Production, enterprise      |
+
+---
+
+🚀 What Should You Use?
+Beginner / student 👉 LLaMA / Mistral (free)
+Project / startup 👉 DeepSeek / Gemini (cheap + scalable)
+Top performance 👉 GPT / Claude (paid)
