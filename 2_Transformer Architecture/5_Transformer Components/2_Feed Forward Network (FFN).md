@@ -70,9 +70,6 @@ FFN then transforms that information into a richer representation that helps the
 
 * ✅ Essential for high-quality language understanding.
 
-### Interview Answer (30 Seconds)
-
-Answer
 
 Feed Forward Network (FFN) is a neural network layer used after the attention mechanism in a Transformer. It consists of two linear layers with a non-linear activation such as ReLU or GELU in between. The FFN transforms the attention output into a richer representation, helping the model learn complex patterns and improve language understanding.
 

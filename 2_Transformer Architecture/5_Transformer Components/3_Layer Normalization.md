@@ -121,7 +121,6 @@ The exact numbers depend on the calculation, but the idea is that the values are
 
 ---
 
-# Interview Answer (30 Seconds)
 
 > **Layer Normalization is a technique used in Transformers to normalize the features of each token. It stabilizes the values flowing through the network, leading to faster and more stable training. Unlike Batch Normalization, Layer Normalization works independently for each token and does not rely on batch statistics, making it well suited for NLP models like Transformers.**
 

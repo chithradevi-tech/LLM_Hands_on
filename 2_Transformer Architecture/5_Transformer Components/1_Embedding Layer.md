@@ -187,8 +187,6 @@ Puppy ─────┘
 
 ---
 
-# Interview Answer (30 Seconds)
-
 > **The Embedding Layer is the first layer of a Transformer. It converts token IDs into dense numerical vectors called embeddings. These embeddings capture the semantic meaning of words and are combined with positional information before being passed to the Transformer. Since neural networks process numbers rather than text, the embedding layer is essential for transforming text into a machine-readable format.**
 
 ---

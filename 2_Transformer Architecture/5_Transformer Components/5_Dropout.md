@@ -145,8 +145,6 @@ Similarly, Dropout forces neurons to learn independently instead of relying on s
 
 ---
 
-# Interview Answer (30 Seconds)
-
 > **Dropout is a regularization technique used during training to prevent overfitting. It randomly disables a percentage of neurons in each training step, forcing the model to learn robust and generalized features. During inference, dropout is turned off, and all neurons are used to make predictions.**
 
 ---
